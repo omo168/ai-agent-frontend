@@ -1,0 +1,48 @@
+
+
+Vercel AI demo
+https://multi-ai-chat-v2.vercel.app
+
+I'll help you create a multi-AI chat application! Based on the URL you provided, I'll build a comprehensive chat interface that can work with multiple AI providers.
+
+
+Thought for 4 seconds
+I've created a comprehensive multi-AI chat application with the following features:
+
+Key Features
+Multiple AI Providers: Support for OpenAI, Anthropic, and Google AI models 
+Dynamic Model Selection: Switch between different models within each provider
+Real-time Streaming: Uses the AI SDK's streaming capabilities for responsive chat 
+Modern UI: Clean, responsive design with provider-specific branding
+Message Management: Copy messages, clear chat history
+Loading States: Visual feedback during AI responses
+Keyboard Shortcuts: Enter to send, Shift+Enter for new lines
+Setup Instructions
+Install Dependencies:
+
+npm install ai @ai-sdk/openai @ai-sdk/anthropic @ai-sdk/google
+Configure API Keys: Copy .env.local.example to .env.local and add your API keys 
+Run the Application:
+
+npm run dev
+The application provides a seamless experience for comparing responses from different AI providers and models, making it perfect for testing, development, or general AI assistance needs.
+
+
+Suggestions
+Upgrade for new features and higher limits Upgrade Plan
+Chat Input
+Ask a follow-up…
+Tidak ada file yang dipilih
+v0 may make mistakes. Please use with discretion.
+
+Vercel AI demo – v0 by Vercel
+Multi Ai Chat
+
+Publish
+/
+Console
+Filter...
+09:55:52.547Z
+v0 cannot resolve local font from:  ./fonts/GeistVF.woff2
+09:55:52.550Z
+v0 cannot resolve local font from:  ./fonts/GeistMonoVF.woff2
